@@ -1,0 +1,50 @@
+# Geotechnique — Cholet
+
+> Geotechnical engineering services in Cholet, France.
+
+## Services
+- [Amelioration Sols](https://cholet.geotechnique.vip/amelioration-sols/)
+- [Ancrages](https://cholet.geotechnique.vip/ancrages/)
+- [Cbr Routier](https://cholet.geotechnique.vip/cbr-routier/)
+- [Chaussee Rigide](https://cholet.geotechnique.vip/chaussee-rigide/)
+- [Chaussee Souple](https://cholet.geotechnique.vip/chaussee-souple/)
+- [Colonnes Ballastees](https://cholet.geotechnique.vip/colonnes-ballastees/)
+- [Densite Cone Sable](https://cholet.geotechnique.vip/densite-cone-sable/)
+- [Essai Cpt](https://cholet.geotechnique.vip/essai-cpt/)
+- [Essai Plaque Charge](https://cholet.geotechnique.vip/essai-plaque-charge/)
+- [Excavations](https://cholet.geotechnique.vip/excavations/)
+- [Fondations](https://cholet.geotechnique.vip/fondations/)
+- [Geophysique](https://cholet.geotechnique.vip/geophysique/)
+- [Geotechnique Routiere](https://cholet.geotechnique.vip/geotechnique-routiere/)
+- [Granulometrie](https://cholet.geotechnique.vip/granulometrie/)
+- [Injections](https://cholet.geotechnique.vip/injections/)
+- [Investigation](https://cholet.geotechnique.vip/investigation/)
+- [Isolation Sismique](https://cholet.geotechnique.vip/isolation-sismique/)
+- [Labo In Situ](https://cholet.geotechnique.vip/labo-in-situ/)
+- [Laboratoire](https://cholet.geotechnique.vip/laboratoire/)
+- [Limites Atterberg](https://cholet.geotechnique.vip/limites-atterberg/)
+- [Liquefaction](https://cholet.geotechnique.vip/liquefaction/)
+- [Masw](https://cholet.geotechnique.vip/masw/)
+- [Microzonage Sismique](https://cholet.geotechnique.vip/microzonage-sismique/)
+- [Murs Soutenement](https://cholet.geotechnique.vip/murs-soutenement/)
+- [Permeabilite In Situ](https://cholet.geotechnique.vip/permeabilite-in-situ/)
+- [Pieux](https://cholet.geotechnique.vip/pieux/)
+- [Puits Inspection](https://cholet.geotechnique.vip/puits-inspection/)
+- [Refraction Sismique](https://cholet.geotechnique.vip/refraction-sismique/)
+- [Resistivite](https://cholet.geotechnique.vip/resistivite/)
+- [Semelles](https://cholet.geotechnique.vip/semelles/)
+- [Sismique](https://cholet.geotechnique.vip/sismique/)
+- [Sondages Spt](https://cholet.geotechnique.vip/sondages-spt/)
+- [Stabilite Talus](https://cholet.geotechnique.vip/stabilite-talus/)
+- [Surveillance Excavations](https://cholet.geotechnique.vip/surveillance-excavations/)
+- [Talus](https://cholet.geotechnique.vip/talus/)
+- [Triaxial](https://cholet.geotechnique.vip/triaxial/)
+- [Tunnels Sol Mou](https://cholet.geotechnique.vip/tunnels-sol-mou/)
+- [Vibrocompactage](https://cholet.geotechnique.vip/vibrocompactage/)
+
+## Contact
+- Website: https://cholet.geotechnique.vip/
+
+## About
+This site provides geotechnical engineering services in Cholet, France.
+Compliant with local and international standards (ASTM, ISO, country-specific norms).
